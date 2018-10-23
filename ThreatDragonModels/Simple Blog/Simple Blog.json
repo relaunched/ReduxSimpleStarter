@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Simple Blog",
+    "owner": "Matt",
+    "description": "Simple Crud Blog App"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Matt"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Blog",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Matt"
+  }
+}
